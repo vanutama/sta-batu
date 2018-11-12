@@ -1,3 +1,3 @@
-# sta-batu
+# STA BATU
 
-STA BATU
+Oleh Yedija Vanutama - 2018
